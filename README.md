@@ -1,1 +1,1 @@
-# Ateneo de Davao University - School of Education ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+# Ateneo de Davao University - School of Education ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.SLK71UWNZDOhSpPmuahVoAHaFj%26pid%3DApi&f=1&ipt=4fd3da7b85fb361ff724a9e0ddccf83007853d7528d9bb00a2922435521780d4&ipo=images)
