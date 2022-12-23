@@ -1,1 +1,1 @@
-# Ateneo de Davao University - School of Education ![alt text](https://github.com/DcBBlvr21/itelective3-web/blob/main/AdDU%20Logo.png "width=300 height=300")
+# Ateneo de Davao University - School of Education ![alt text] <img src="https://github.com/DcBBlvr21/itelective3-web/blob/main/AdDU%20Logo.png" width=300 height=300">
