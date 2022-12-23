@@ -1,7 +1,5 @@
-
-<p align=right>  
-# Ateneo de Davao University - School of Education <img src="https://github.com/DcBBlvr21/itelective3-web/blob/main/AdDU%20Logo.png" width=300 height=200>
-</p>
+# Ateneo de Davao University - School of Education 
+<img src="https://github.com/DcBBlvr21/itelective3-web/blob/main/AdDU%20Logo.png" width=300 height=200 align=right>
 
 ## Frameworks <br>
 <img src="https://github.com/DcBBlvr21/itelective3-web/blob/main/Laravel%20Logo.png" width= 100 height=80> Laravel <br>
