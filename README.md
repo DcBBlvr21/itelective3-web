@@ -6,3 +6,14 @@
 <img src="https://github.com/DcBBlvr21/itelective3-web/blob/main/MySql%20Logo.png" width=150 height=100> MySQL <br>
 
 ## Simple Student Assessment Management System
+
+## Sub-systems
+* Log in/Sign up
+* Student Information
+* Teacher Information
+* About
+* Courses
+* Assignments
+* Schedule
+* Grading
+* Roster
